@@ -37,3 +37,17 @@ un programa que encuentre el factorial de un numero.
 13. Un triangulo rectangulo puede tener sus tres lados como numeros enteros. Si a y b son los catetos y c la hipotenusa,
 se cumple que a^2 + b^2 = c^2. Si tanto a, b y c son enteros, se dice que a, b y c son una tercia pitagorica. Por ejemplo,
 3^2 + 4^2 = 5^2. Escribe un programa que encuentre todas las tercias pitagoricas, con los numeros menores que 500.
+
+14. Escribe un programa que le pida al usuario que ingrese una cadena de texto y checa si dentro del texto ingresado
+se encuentre la frase "no se". Por ejemplo, "El iguano se comio una mosca" si contiene la frase "no se".
+
+15. Pidele al usuario que ingrese una lista de palabras y le digas cual fue la mas larga. Recuerda que deben de ser palabras,
+por lo que frases no cuentan!
+
+16. Escribe un programa que imprima una grafica de barras de las vocales en una oracion. Por ejemplo, para la oracion:
+"me gusta tomar clases de Python en la universidad" debe de imprimir:  
+    a: *****  
+    e: *****  
+    i: **  
+    o: **  
+    u: **
