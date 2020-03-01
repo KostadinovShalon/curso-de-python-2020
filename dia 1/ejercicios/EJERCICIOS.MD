@@ -27,7 +27,7 @@ y como 1 + 2 + 3 = 6, entonces 6 es un numero perfecto. Escribe un programa que 
 9. Escribe un programa que convierta de romano a decimal.
 
 10. El factorial de un numero esta dado por la multiplicacion de si mismo con todos los numeros naturales menores. Se 
-representa con un signo de admiracion y se podria definir como n! = n(n-1)(n-1)... Por ejemplo, 5! = 5x4x3x2x1 = 120. Escribe
+representa con un signo de admiracion y se podria definir como n! = n(n-1)(n-2)... Por ejemplo, 5! = 5x4x3x2x1 = 120. Escribe
 un programa que encuentre el factorial de un numero.
 
 11. Escribe un programa que aproxime el valor de la constante de Euler (e = 2.71828...)
