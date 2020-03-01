@@ -9,7 +9,7 @@ Los ejercicios no estan particularmente ordenados y se puede usar cualquier cosa
 2. Pedirle al usuario que ingrese un numero del **1 al 10** e imprimir la tabla de multiplicar de dicho numero. Si el 
 usuario ingresa un numero no valido, indicarlo.
 
-3. Modifica el programa anterior para que el usuario pueda seguir ingresando numeros hasta que introduzca la tecla 's' y salga del programa.
+3. Modifica el programa anterior para que el usuario pueda seguir ingresando numeros e imprima si son divisibles entre 4 y 7, hasta que introduzca la tecla 's' y salga del programa.
 Pista: usa un while y un break.
 
 4. Escribe un programa que devuelva la suma de los digitos de un numero
